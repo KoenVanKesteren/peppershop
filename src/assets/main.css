@@ -1,0 +1,15 @@
+
+.page-header {
+	margin-left: 30px;
+	margin-top: 50px;
+	font-weight: lighter;
+	font-family: 'Akaya Kanadaka';
+	color: rgb(100, 100, 100);
+	font-size: 14px;
+}
+
+.carousel-container {
+	margin: auto;
+	width: 600px;
+	padding: 30px;
+}
